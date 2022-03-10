@@ -1,5 +1,3 @@
-# Veri Yapıları ve Algoritmalar Projeleri
-
 ## Insertion Sort Algoritması Projesi
 
 ```
